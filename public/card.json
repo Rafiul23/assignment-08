@@ -1,0 +1,137 @@
+
+[
+      {
+        "id": 1,
+        "picture": "https://i.ibb.co/Jzqvv0J/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg_color": "#0052ff33",
+        "card_bg_color": "#0052ff26",
+        "text_color": "#0052FF",
+        "description": "Donating for clean water for children is a powerful gesture of compassion. Access to safe drinking water is a fundamental human right, yet millions of children around the world still lack this basic necessity. Your support can transform their lives by providing clean and disease-free water sources. It means fewer illnesses, more time for education, and brighter futures. With your contribution, we can build wells, install water purification systems, and ensure that these young souls have the opportunity to thrive. Your generosity not only quenches their thirst but also nurtures their dreams. Join us in this mission to make a profound and lasting impact.",
+        "price": 199.99
+      },
+      {
+        "id": 2,
+        "picture": "https://i.ibb.co/YTHKN6B/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg_color": "#ff444a33",
+        "card_bg_color": "#ff444a26",
+        "text_color": "#FF444A",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": 49.99
+      },
+      {
+        "id": 3,
+        "picture": "https://i.ibb.co/V3JVKw2/Rectangle-4287.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg_color": "#79c23f33",
+        "card_bg_color": "#79c23f26",
+        "text_color": "#79C23F",
+        "description": "Donating clothing is a simple yet profound way to make a positive impact on the lives of those in need. Your gently used garments can provide warmth, dignity, and a sense of belonging to individuals facing challenging circumstances. From providing coats to keep people warm during harsh winters to offering professional attire for job interviews, your clothing donation can empower individuals to regain their self-esteem and independence. It's not just about giving away clothes; it's about giving hope and support to those striving for a better future. Join us in this compassionate endeavor, as every piece of clothing you donate represents a step towards a brighter tomorrow for someone in need.",
+        "price": 29.99
+      },
+      {
+        "id": 4,
+        "picture": "https://i.ibb.co/b13SsK0/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg_color": "#f8714733",
+        "card_bg_color": "#f8714726",
+        "text_color": "#F87147",
+        "description": "Donating for better food for everyone is a transformative act of generosity. Access to nourishing meals is a fundamental human need, and millions worldwide still suffer from food insecurity. Your contribution can help bridge this gap by supporting food banks, community gardens, and programs that provide nutritious meals to those in need. It's not just about filling empty stomachs; it's about promoting health, reducing inequalities, and fostering a sense of dignity. Your donation can be a lifeline, ensuring that individuals and families have access to the sustenance they require to thrive. Join us in this mission to create a world where no one goes to bed hungry, where everyone can savor the benefits of better food, and where compassion reigns supreme.",
+        "price": 79.99
+      },
+      {
+        "id": 5,
+        "picture": "https://i.ibb.co/b13SsK0/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg_color": "#f8714733",
+        "card_bg_color": "#f8714726",
+        "text_color": "#F87147",
+        "description": "Donating for better food for everyone is a transformative act of generosity. Access to nourishing meals is a fundamental human need, and millions worldwide still suffer from food insecurity. Your contribution can help bridge this gap by supporting food banks, community gardens, and programs that provide nutritious meals to those in need. It's not just about filling empty stomachs; it's about promoting health, reducing inequalities, and fostering a sense of dignity. Your donation can be a lifeline, ensuring that individuals and families have access to the sustenance they require to thrive. Join us in this mission to create a world where no one goes to bed hungry, where everyone can savor the benefits of better food, and where compassion reigns supreme.",
+        "price": 79.99
+      },
+      {
+        "id": 6,
+        "picture": "https://i.ibb.co/V3JVKw2/Rectangle-4287.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg_color": "#79c23f33",
+        "card_bg_color": "#79c23f26",
+        "text_color": "#79C23F",
+        "description": "Donating clothing is a simple yet profound way to make a positive impact on the lives of those in need. Your gently used garments can provide warmth, dignity, and a sense of belonging to individuals facing challenging circumstances. From providing coats to keep people warm during harsh winters to offering professional attire for job interviews, your clothing donation can empower individuals to regain their self-esteem and independence. It's not just about giving away clothes; it's about giving hope and support to those striving for a better future. Join us in this compassionate endeavor, as every piece of clothing you donate represents a step towards a brighter tomorrow for someone in need.",
+        "price": 29.99
+      },
+      {
+        "id": 7,
+        "picture": "https://i.ibb.co/YTHKN6B/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg_color": "#ff444a33",
+        "card_bg_color": "#ff444a26",
+        "text_color": "#FF444A",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": 49.99
+      },
+      {
+        "id": 8,
+        "picture": "https://i.ibb.co/Jzqvv0J/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg_color": "#0052ff33",
+        "card_bg_color": "#0052ff26",
+        "text_color": "#0052FF",
+        "description": "Donating for clean water for children is a powerful gesture of compassion. Access to safe drinking water is a fundamental human right, yet millions of children around the world still lack this basic necessity. Your support can transform their lives by providing clean and disease-free water sources. It means fewer illnesses, more time for education, and brighter futures. With your contribution, we can build wells, install water purification systems, and ensure that these young souls have the opportunity to thrive. Your generosity not only quenches their thirst but also nurtures their dreams. Join us in this mission to make a profound and lasting impact.",
+        "price": 199.99
+      },
+      {
+        "id": 9,
+        "picture": "https://i.ibb.co/Jzqvv0J/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg_color": "#0052ff33",
+        "card_bg_color": "#0052ff26",
+        "text_color": "#0052FF",
+        "description": "Donating for clean water for children is a powerful gesture of compassion. Access to safe drinking water is a fundamental human right, yet millions of children around the world still lack this basic necessity. Your support can transform their lives by providing clean and disease-free water sources. It means fewer illnesses, more time for education, and brighter futures. With your contribution, we can build wells, install water purification systems, and ensure that these young souls have the opportunity to thrive. Your generosity not only quenches their thirst but also nurtures their dreams. Join us in this mission to make a profound and lasting impact.",
+        "price": 199.99
+      },
+      {
+        "id": 10,
+        "picture": "https://i.ibb.co/YTHKN6B/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg_color": "#ff444a33",
+        "card_bg_color": "#ff444a26",
+        "text_color": "#FF444A",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": 49.99
+      },
+      {
+        "id": 11,
+        "picture": "https://i.ibb.co/V3JVKw2/Rectangle-4287.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg_color": "#79c23f33",
+        "card_bg_color": "#79c23f26",
+        "text_color": "#79C23F",
+        "description": "Donating clothing is a simple yet profound way to make a positive impact on the lives of those in need. Your gently used garments can provide warmth, dignity, and a sense of belonging to individuals facing challenging circumstances. From providing coats to keep people warm during harsh winters to offering professional attire for job interviews, your clothing donation can empower individuals to regain their self-esteem and independence. It's not just about giving away clothes; it's about giving hope and support to those striving for a better future. Join us in this compassionate endeavor, as every piece of clothing you donate represents a step towards a brighter tomorrow for someone in need.",
+        "price": 29.99
+      },
+      {
+        "id": 12,
+        "picture": "https://i.ibb.co/b13SsK0/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg_color": "#f8714733",
+        "card_bg_color": "#f8714726",
+        "text_color": "#F87147",
+        "description": "Donating for better food for everyone is a transformative act of generosity. Access to nourishing meals is a fundamental human need, and millions worldwide still suffer from food insecurity. Your contribution can help bridge this gap by supporting food banks, community gardens, and programs that provide nutritious meals to those in need. It's not just about filling empty stomachs; it's about promoting health, reducing inequalities, and fostering a sense of dignity. Your donation can be a lifeline, ensuring that individuals and families have access to the sustenance they require to thrive. Join us in this mission to create a world where no one goes to bed hungry, where everyone can savor the benefits of better food, and where compassion reigns supreme.",
+        "price": 79.99
+      }
+]
+  
+  

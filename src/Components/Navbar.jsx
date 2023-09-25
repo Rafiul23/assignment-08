@@ -12,7 +12,7 @@ const Navbar = () => {
 
             <div className="navbar">
                 <div className="flex-1">
-                    <a className="btn btn-ghost normal-case"><Logo></Logo></a>
+                    <a className=" normal-case"><Logo></Logo></a>
                 </div>
                 <div className="flex pt-4 items-center">
                     <ul className="flex items-center">

@@ -7,7 +7,7 @@ import Logo from "./Logo";
 
 const Navbar = () => {
     return (
-        <div className="px-4">
+        <div className="container mx-auto">
             
 
             <div className="navbar">

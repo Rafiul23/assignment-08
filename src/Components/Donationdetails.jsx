@@ -1,4 +1,5 @@
-
+import {  toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 const Donationdetails = ({details}) => {
 
@@ -13,6 +14,7 @@ const Donationdetails = ({details}) => {
         if(!donatedItems){
             addedDonationArray.push(details);
             localStorage.setItem("donated", JSON.stringify(addedDonationArray));
+            toast.success('You have successfully donated in this category');
         }
         else {
             const isExist = donatedItems.find((details)=> details.id === id);
@@ -20,6 +22,9 @@ const Donationdetails = ({details}) => {
             if(!isExist){
                 addedDonationArray.push(...donatedItems, details);
                 localStorage.setItem("donated", JSON.stringify(addedDonationArray));
+                toast.success('You have successfully donated in this category');
+            } else {
+                toast.error('You have already donated in this category.Try another one.');
             }
         }
 

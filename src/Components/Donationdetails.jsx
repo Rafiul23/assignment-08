@@ -2,7 +2,28 @@
 
 const Donationdetails = ({details}) => {
 
-    const {picture, text_color, category, description, price} = details;
+    const {picture, text_color, category, description, id, price} = details;
+
+    const handleAddToDonate = () =>{
+
+        const addedDonationArray = [];
+
+        const donatedItems = JSON.parse(localStorage.getItem("donated"));
+
+        if(!donatedItems){
+            addedDonationArray.push(details);
+            localStorage.setItem("donated", JSON.stringify(addedDonationArray));
+        }
+        else {
+            const isExist = donatedItems.find((details)=> details.id === id);
+
+            if(!isExist){
+                addedDonationArray.push(...donatedItems, details);
+                localStorage.setItem("donated", JSON.stringify(addedDonationArray));
+            }
+        }
+
+    }
 
     return (
         <div>
@@ -18,7 +39,7 @@ const Donationdetails = ({details}) => {
                 </div>
                 <button style={{
                         backgroundColor: `${text_color}`,
-                    }} className="btn text-white absolute bottom-10 left-5 z-10 border-none">Donate ${price}</button>
+                    }} onClick={handleAddToDonate} className="btn text-white absolute bottom-10 left-5 z-10 border-none">Donate ${price}</button>
                 </div>
                 
 

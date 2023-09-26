@@ -31,9 +31,9 @@ const Donation = () => {
                         : isDonated.slice(0,4).map(details => <ShowDonated key={details.id} details={details}></ShowDonated>)
                     }
                     </div>
-                    {isDonated.length > 4 && isShow ? <button className="hidden"></button> : <button onClick={()=>setIsShow(!isShow)} className="p-5 bg-[#009444] text-white block mx-auto">
+                    {isDonated.length > 4 && !isShow ? <button onClick={()=>setIsShow(!isShow)} className="p-5 bg-[#009444] text-white block mx-auto">
                     See More 
-                    </button>}
+                    </button> : <button className="hidden"></button> }
 
             </div>
             )

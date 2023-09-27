@@ -4,7 +4,7 @@ import ShowDonated from "./ShowDonated";
 
 const Donation = () => {
 
-    const [isDonated, setDonated] = useState([]);
+    const [isDonated, setIsDonated] = useState([]);
     const [notFound, setNotFound] = useState(false);
     const [isShow, setIsShow] = useState(false);
 
@@ -12,7 +12,7 @@ const Donation = () => {
         const donatedItems = JSON.parse(localStorage.getItem('donated'));
 
         if(donatedItems){
-            setDonated(donatedItems);
+            setIsDonated(donatedItems);
         } else {
             setNotFound('No money donated yet');
         }

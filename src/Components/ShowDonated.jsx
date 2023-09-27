@@ -6,8 +6,12 @@ const ShowDonated = ({details}) => {
 
     return (
         <div className="flex w-full">
-            <img className="flex-1" src={picture} alt="" />
-            <div className="flex-1 p-4 space-y-2" style={{
+
+            
+            <img className="flex-1 w-[200px] h-[200px]" src={picture} alt="" />
+           
+
+            <div className="flex-1 pl-4 pt-4 space-y-2" style={{
                 backgroundColor: `${card_bg_color}`
             }}> 
                 <div className="flex">

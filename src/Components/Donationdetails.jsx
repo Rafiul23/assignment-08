@@ -49,8 +49,8 @@ const Donationdetails = ({details}) => {
                 
 
 
-                <h2 className="text-3xl py-4 font-bold">{category}</h2>
-                <p>{description}</p>
+                <h2 className="text-3xl px-2 py-4 font-bold">{category}</h2>
+                <p className='px-2'>{description}</p>
             </div>
         </div>
     );
